@@ -94,3 +94,4 @@ Versioning follows semantic versioning based on commit messages:
 - `fix:` : patch version bump
 
 Example: `1.0.0`
+
